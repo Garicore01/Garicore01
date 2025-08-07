@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gari Arellano! Computer Science student 
+### <div align="center">I'm Gari Arellano! Computer Sciencetist 
 </div>  
   
 
